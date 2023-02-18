@@ -1,1 +1,3 @@
-HOW TO DECLARE A VARIABLE
+//HOW TO DECLARE A VARIABLE
+
+var firstName = "Kwasi"
